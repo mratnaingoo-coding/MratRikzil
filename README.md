@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MratRikzil
+- 🧑‍💻 Hi everyone, I'm glad to see you, just call me "Rikzil" or Mrat Naing. 🧑‍💻
 - 👀 I’m interested in writing the code with Java, JS, HTML, CSS, and the other programming language. 
 - 🌱 I’m currently learning in HTML, CSS, JavaScript and Java. I'm the first learner of this languages.
 - 💞️ I’m looking to collaborate on this webpage with everyone to get achieve the goals and friendly with all of you. My future plan is to be a web developer in my country.
